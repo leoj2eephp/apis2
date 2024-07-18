@@ -32,4 +32,3 @@ $videojuegos = [
 ];
 
 echo json_encode($videojuegos);
-?>

@@ -32,4 +32,3 @@ $recetas = [
 ];
 
 echo json_encode($recetas);
-?>

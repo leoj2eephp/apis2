@@ -32,4 +32,3 @@ $constelaciones = [
 ];
 
 echo json_encode($constelaciones);
-?>

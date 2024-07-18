@@ -35,4 +35,3 @@ $paises = [
 ];
 
 echo json_encode($paises);
-?>

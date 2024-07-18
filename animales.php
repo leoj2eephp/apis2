@@ -32,4 +32,3 @@ $animales = [
 ];
 
 echo json_encode($animales);
-?>

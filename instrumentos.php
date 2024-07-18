@@ -32,4 +32,3 @@ $instrumentos = [
 ];
 
 echo json_encode($instrumentos);
-?>

@@ -32,4 +32,3 @@ $plantas = [
 ];
 
 echo json_encode($plantas);
-?>
